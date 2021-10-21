@@ -268,7 +268,7 @@ nav ul {
   }
   .left-btn ul {
     display: flex;
-    position: relative;
+    position: absolute;
     left: -600px;
   }
   .left-btn ul li {
